@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>D:\Второй курс (2)\АиСД\Lab 1 real real\Debug\TestLab1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="Test_insert." Duration="1" />
+    <TestDuration Test="Test_remove." Duration="1" />
+    <TestDuration Test="test_find." Duration="1" />
+    <TestDuration Test="Test_getkeys." Duration="1" />
+    <TestDuration Test="Test_getvalues." Duration="1" />
+    <TestDuration Test="Test_clear." Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

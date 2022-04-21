@@ -1,0 +1,8 @@
+﻿  test.cpp
+D:\Второй курс (2)\АиСД\TestLab1\test.cpp(5,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+D:\Второй курс (2)\АиСД\TestLab1\test.cpp(35,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+D:\Второй курс (2)\АиСД\TestLab1\test.cpp(65,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+D:\Второй курс (2)\АиСД\TestLab1\test.cpp(83,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+D:\Второй курс (2)\АиСД\TestLab1\test.cpp(100,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+D:\Второй курс (2)\АиСД\TestLab1\test.cpp(117,1): warning C4003: not enough arguments for function-like macro invocation 'TEST'
+  TestLab1.vcxproj -> D:\Второй курс (2)\АиСД\Lab 1 real real\Debug\TestLab1.exe
